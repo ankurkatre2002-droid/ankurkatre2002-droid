@@ -66,10 +66,13 @@
 <!-- ==================== ANIMATED TECH WAVE ==================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="85%" />
-  <br>
-  <sub>Key tools: TensorFlow · PyTorch · Scikit-learn · Pandas · SQL</sub>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%230074C1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 
 
 ---
