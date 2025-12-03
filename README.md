@@ -2,44 +2,43 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=ANKUR+KATRE;Applied+ML+Engineer"
-    alt="ANKUR KATRE - Applied ML Engineer (minimal)"
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=ANKUR+KATRE;Applied+ML+Engineer"
+    alt="ANKUR KATRE - Applied ML Engineer"
   />
 </p>
 
 <p align="center">
-  <sub><strong>ML & AI Engineer</strong> — deployable ML systems, NLP, Weak Supervision.</sub>
+  <sub><strong>ML & AI Engineer</strong> — Segmentation, NLP, Weak Supervision, Deployable ML Systems.</sub>
 </p>
 
-
-<hr />
+<hr/>
 
 <!-- ==================== SUMMARY + CONTACT (ANIMATED BADGES) ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-ankurkatre2002@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email" />
-  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-lightgrey?style=for-the-badge" alt="location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=for-the-badge" alt="opento" />
+  <img src="https://img.shields.io/badge/Email-ankurkatre2002@gmail.com-blue?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ==================== TWO-COLUMN ANIMATED LAYOUT ==================== -->
+<!-- ==================== TWO-COLUMN LAYOUT ==================== -->
 
 <table>
 <tr>
 <td width="48%" valign="top">
 
 ### 🔎 Profile (animated intro)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6A6AFF&center=true&vCenter=true&width=640&lines=Detail-oriented+ML+practitioner;building+end-to-end+pipelines;deployable+AI+solutions" alt="animated profile lines" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=6A6AFF&center=true&vCenter=true&width=500&lines=Detail-oriented+ML+practitioner;Building+end-to-end+pipelines;Deployable+AI+solutions" />
 
-**Core focus**
-- LSTM time-series forecasting  
+**Core Focus**
+- Time-series modeling (LSTM)
 - NLP & text classification  
-- Weakly-supervised image segmentation  
-- Hybrid anomaly detection
+- Weakly-supervised segmentation  
+- Hybrid anomaly detection  
 
-**Tech**
+**Tech Stack**
 Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
 
 </td>
@@ -48,16 +47,16 @@ Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
 
 <td width="48%" valign="top">
 
-### 🎯 Current Focus (animated badges)
+### 🎯 Current Focus
 <p>
-  <img src="https://img.shields.io/badge/Deployment-FastAPI-orange?style=flat-square" alt="fastapi" />
-  <img src="https://img.shields.io/badge/MLOps-CI%2FCD-blue?style=flat-square" alt="mlops" />
-  <img src="https://img.shields.io/badge/Robustness-Model+Testing-yellow?style=flat-square" alt="robustness" />
+  <img src="https://img.shields.io/badge/FastAPI-Deployment-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLOps-CI%2FCD-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Testing-Model%20Robustness-yellow?style=flat-square" />
 </p>
 
-### 📫 Contact
-- ankurkatre2002@gmail.com  
-- <a href="https://www.linkedin.com/in/ankur-katre-aa7a41372/" target="_blank">LinkedIn</a>
+### 📫 Contact  
+- **Email:** ankurkatre2002@gmail.com  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/ankur-katre-aa7a41372/" target="_blank">Profile</a>
 
 </td>
 </tr>
@@ -68,32 +67,32 @@ Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
 <!-- ==================== ANIMATED PROJECT SHOWCASE ==================== -->
 
 ## 🚀 Project Demos (Animated)
-> Replace the `/assets/*.gif` files with your own demo GIFs (3–8 seconds). Upload them to this repository under `/assets/`.
+> Place your GIFs in `/assets/` and rename them as below.
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 **Stock Forecasting (LSTM)**  
-<img src="./assets/stock_forecast_demo.gif" alt="stock demo" width="260" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.25);"/>
+<img src="./assets/stock_forecast_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 <br>
-<sub>Automated pipeline + sentiment → LSTM forecasting</sub>
+<sub>Automated pipeline + sentiment → LSTM</sub>
 
 </td>
 
 <td width="33%" align="center">
 
 **Email Spam Classifier (NLP)**  
-<img src="./assets/spam_classifier_demo.gif" alt="spam demo" width="260" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.25);"/>
+<img src="./assets/spam_classifier_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 <br>
-<sub>TF-IDF → classifiers; precision/recall tuning</sub>
+<sub>NLP → TF-IDF → Classifiers</sub>
 
 </td>
 
 <td width="33%" align="center">
 
-**Image Segmentation (Sparse Scribbles)**  
-<img src="./assets/segmentation_demo.gif" alt="segmentation demo" width="260" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.25);"/>
+**Segmentation (Sparse Scribbles)**  
+<img src="./assets/segmentation_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 <br>
 <sub>Weak supervision → high-quality masks</sub>
 
@@ -103,39 +102,42 @@ Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
 
 ---
 
-<!-- ==================== ANIMATED TECH WAVE (SVG) ==================== -->
+<!-- ==================== ANIMATED TECH WAVE ==================== -->
 
 <p align="center">
-  <!-- Smooth animated gradient bar (SVG) -->
-  <img src="https://svgshare.com/i/u3K.svg" alt="animated tech wave" width="85%" style="border-radius:8px;" />
+  <img src="https://svgshare.com/i/u3K.svg" width="85%" style="border-radius:8px;" />
   <br>
   <sub>Key tools: TensorFlow · PyTorch · Scikit-learn · Pandas · SQL</sub>
 </p>
 
-> Note: `svgshare.com` serves the animated SVG; if you prefer hosting the SVG yourself, download and push it to `/assets/tech_wave.svg` and update the `src` accordingly.
-
 ---
 
-<!-- ==================== GITHUB INSIGHTS (dynamic images) ==================== -->
+<!-- ==================== GITHUB INSIGHTS (STABLE MIRRORS) ==================== -->
 
 ## 📈 GitHub Insights
 
+### 🔵 Streak & Stats (Stable Mirror)
 <p align="center">
-  <!-- dynamic stat cards -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ankurkatre2002-droid&show_icons=true&locale=en&theme=transparent" alt="github stats" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=ankurkatre2002-droid&theme=transparent" alt="streak" />
+  <img width="45%" src="https://github-readme-stats-mu-blond.vercel.app/api?username=ankurkatre2002-droid&show_icons=true&theme=transparent" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=ankurkatre2002-droid&theme=transparent" />
 </p>
 
+### 🔵 Contribution Graph (Works Consistently)
 <p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankurkatre2002-droid&theme=github" alt="activity graph" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankurkatre2002-droid&theme=github" />
+</p>
+
+### 🔵 Contribution Heatmap (NEVER breaks)
+<p align="center">
+  <img src="https://ghchart.rshah.org/ankurkatre2002-droid" />
 </p>
 
 ---
 
-<!-- ==================== FOOTER ANIMATION & NOTES ==================== -->
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=900&color=808080&center=true&vCenter=true&width=800&lines=Want+to+see+project+notebooks+or+code%3F+Check+the+repos.;Open+to+internships+%7C+Remote+or+Bhopal" alt="footer typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&pause=900&color=808080&center=true&vCenter=true&width=800&lines=Explore+the+projects+below.;Open+to+ML+and+AI+Internships+%7C+Remote+or+Bhopal" />
 </p>
 
-<sub>Pro tip: use short GIFs (3–6s) compressed to <=1MB for best GitHub rendering. PNG or SVG still images are fine as fallbacks.</sub>
+<sub>Tip: keep GIFs 3–6s and <1MB for smooth rendering.</sub>
