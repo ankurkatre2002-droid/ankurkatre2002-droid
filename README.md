@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Ankur Katre</h1>
-<h3 align="center">I’m Ankur Katre, working in Data Science & AI with a focus on applied machine learning, deep learning, and automation of data workflows. I enjoy building real, deployable ML systems models that don’t just train, but actually solve problems.</h3>
+### About Me  
+I’m Ankur Katre, working in Data Science & AI with a focus on applied machine learning, deep learning, and automation of data workflows. I enjoy building real, deployable ML systems—models that don’t just train, but actually solve problems.
 
-- 📫 How to reach me **ankurkatre2002@gmail.com**
+### What I Do  
+- Develop ML/DL models using Python, TensorFlow, and Scikit-learn  
+- Automate data pipelines for ingestion, preprocessing, and analysis  
+- Work with NLP, time-series forecasting, and image processing  
+- Optimize model performance through experimentation and benchmarking  
+- Explore hybrid and custom architectures for anomaly detection and segmentation  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ankur-katre-aa7a41372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ankur-katre-aa7a41372/" height="30" width="40" /></a>
-</p>
+### Featured Projects  
+- **LSTM Stock Price Forecasting with Automated Data Pipeline**  
+  Automated pipeline + LSTM-based forecasting + sentiment integration.  
+- **Email Spam Classifier using NLP**  
+  Intelligent classifier outperforming traditional rule-based filters.  
+- **Image Segmentation from Sparse Scribble Annotations**  
+  Custom deep-learning model trained on weak labels.  
+- **Hybrid Autoencoder + Isolation Forest for Anomaly Detection**  
+  Hybrid system improving F1-score beyond baseline models.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Tech Stack  
+**Languages:** Python, SQL, Java  
+**ML/DS:** NumPy, Pandas, Scikit-Learn, TensorFlow  
+**Tools:** Git, Jupyter Notebook, Tableau, Excel  
+**Interests:** Machine Learning, AI Systems, Finance Analytics
+
+### Current Focus  
+- Model deployment (FastAPI, lightweight APIs)  
+- Reproducible ML pipelines  
+- Robust deep learning architectures
+
+### Opportunities  
+Open to Data Science / Machine Learning internship roles (Remote or On-site).
+
+
