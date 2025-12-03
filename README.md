@@ -38,9 +38,6 @@
 - Weakly-supervised segmentation  
 - Hybrid anomaly detection  
 
-**Tech Stack**
-Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
-
 </td>
 
 <td width="4%"></td>
@@ -66,49 +63,14 @@ Python · TensorFlow · PyTorch · Scikit-learn · Pandas · SQL · FastAPI
 
 <!-- ==================== ANIMATED PROJECT SHOWCASE ==================== -->
 
-## 🚀 Project Demos (Animated)
-> Place your GIFs in `/assets/` and rename them as below.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Stock Forecasting (LSTM)**  
-<img src="./assets/stock_forecast_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
-<br>
-<sub>Automated pipeline + sentiment → LSTM</sub>
-
-</td>
-
-<td width="33%" align="center">
-
-**Email Spam Classifier (NLP)**  
-<img src="./assets/spam_classifier_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
-<br>
-<sub>NLP → TF-IDF → Classifiers</sub>
-
-</td>
-
-<td width="33%" align="center">
-
-**Segmentation (Sparse Scribbles)**  
-<img src="./assets/segmentation_demo.gif" width="260" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
-<br>
-<sub>Weak supervision → high-quality masks</sub>
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ==================== ANIMATED TECH WAVE ==================== -->
 
 <p align="center">
-  <img src="https://svgshare.com/i/u3K.svg" width="85%" style="border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="85%" />
   <br>
   <sub>Key tools: TensorFlow · PyTorch · Scikit-learn · Pandas · SQL</sub>
 </p>
+
 
 ---
 
