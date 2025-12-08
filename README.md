@@ -51,35 +51,49 @@ I am a Data Scientist focused on bridging **model development and deployable sof
 
 ---
 
-## 🛠️ Technic
+## 🛠️ Technical Stack
 
+**ML/DL:** TensorFlow · PyTorch · Scikit-learn  
+**Data:** Pandas · NumPy · SQL  
+**Backend:** Python · FastAPI  
+**Ops:** Git · Docker · Linux  
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Time-Series Forecasting with LSTM  
+Predicting financial trend patterns using deep sequence models with automated preprocessing and hyperparameter tuning.  
+**Tech:** TensorFlow · Python  
+[ View Project ↗ ]
+
+---
+
+### 2. Weakly-Supervised Image Segmentation  
+Computer vision pipeline trained on sparse labels to reduce annotation cost while maintaining mask quality.  
+**Tech:** PyTorch · OpenCV  
+[ View Project ↗ ]
+
+---
+
+### 3. NLP Text Classifier API  
+Real-time sentiment analysis deployed using FastAPI and containerized with Docker for consistent inference.  
+**Tech:** FastAPI · NLP · Docker  
+[ View Project ↗ ]
 
 <!-- ==================== GITHUB INSIGHTS (STABLE MIRRORS) ==================== -->
 
 ## 📈 GitHub Insights
 
-### 🔵 Streak & Stats (Stable Mirror)
+### 🔵 GitHub Activity
+
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-mu-blond.vercel.app/api?username=ankurkatre2002-droid&show_icons=true&theme=transparent" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=ankurkatre2002-droid&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankurkatre2002-droid&theme=github_dark" />
 </p>
 
-### 🔵 Contribution Graph (Works Consistently)
-<p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankurkatre2002-droid&theme=github" />
-</p>
-
-### 🔵 Contribution Heatmap (NEVER breaks)
+### 🔵 Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/ankurkatre2002-droid" />
 </p>
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&pause=900&color=808080&center=true&vCenter=true&width=800&lines=Explore+the+projects+below.;Open+to+ML+and+AI+Internships+%7C+Remote+or+Bhopal" />
-</p>
-
-<sub>Tip: keep GIFs 3–6s and <1MB for smooth rendering.</sub>
