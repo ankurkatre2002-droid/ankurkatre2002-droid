@@ -46,9 +46,6 @@ NumPy · Pandas · Matplotlib · Scikit-learn · Tableau
 **Tools:**  
 MS Word · MS Excel  
 
-**Interests:**  
-Data Science · Machine Learning · Artificial Intelligence · Finance  
-
 <!-- ==================== GITHUB INSIGHTS (STABLE MIRRORS) ==================== -->
 
 ## 📈 GitHub Insights
