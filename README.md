@@ -33,10 +33,6 @@ Building end-to-end ML pipelines · Time-Series Modeling · Deployable AI Soluti
 
 I am a Data Scientist focused on bridging **model development and deployable software systems**. My goal is to build scalable AI solutions that translate raw data into measurable, real-world impact.
 
-| 🔭 Time-Series | 📝 NLP & Text | 🛡️ Hybrid Anomaly |
-|---------------|---------------|------------------|
-| LSTM-based forecasting and sequential modeling | Text classification & insight extraction | Autoencoder + Isolation Forest based detection |
-
 ---
 
 ## 🧠 TECHNICAL SKILLS
